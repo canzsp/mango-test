@@ -1,0 +1,13 @@
+{
+  "name": "autoswap-bot",
+  "version": "1.0.0",
+  "description": "A bot for auto-swapping tokens using web3.js",
+  "main": "autoswap.js",
+  "scripts": {
+    "start": "node autoswap.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "web3": "^1.8.0"
+  }
+}
