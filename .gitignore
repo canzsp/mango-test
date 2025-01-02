@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Python dependencies
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS generated files
+*.swp
+*.swo
